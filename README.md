@@ -1,18 +1,11 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Olá! Sejam bem-vindos ao meu GitHub!</h1></summary>
 </div>
 
-<div align="center">
-<img ssrc="https://github.com/1999AZZAR/blog/main/resources/img/grid-snake.svg"
-alt="snake" /></a>
-</div>
 
-<!-- Presentation -->
-##Olá! Eu sou Francielle Ferraz
-
-  - 🌱 Estou estudando TypeScript, SQL e Python <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Estou estudando TypeScript, SQL e Python.
 
   - 🔭 Estou procurando a minha primeira oportunidade de trabalho. Meu sonho é um dia trabalhar com desenvolvimento de jogos.
 </p>
@@ -23,22 +16,91 @@ alt="snake" /></a>
 
   - 💬 Sou Francielle Ferraz de Sousa, tenho 19 anos. Atualmente, estou cursando Administração e fazendo um curso de SQL, TypeScript e Python.
 
-  - ⚡ Gosto de ler ebooks, manhwas, assistir filmes e séries de diversos gêneros. Também gosto de escutar músicas nacionais e internacionais. \o/
+  - ⚡ Gosto de ler ebooks, manhwas, assistir filmes e séries de diversos gêneros. Também gosto de escutar músicas nacionais e internacionais.
 </details>
 
-<!-- Portfolio -->
-## Portfolio:
--
-<!-- GIF -->
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/francielleferraz22/francielleferraz22/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=francielleferraz22&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francielleferraz22&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=1&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/fran_ferraz22?igsh=MTN1dm0weWRtZTIzaA==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://br.linkedin.com/in/francielle-ferraz-de-sousa-b6976532b" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/message/4HBK2LNAE4NDG1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+</div>
+
+
+###
+
+<p align="center">
+  <img src="https://cdn.pixabay.com/animation/2023/01/17/08/00/08-00-58-425_512.gif" height="400" alt="Imagem">
 </p>
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-  <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/francielleferraz22/count.svg?"  />
+</div>
+
+
+
