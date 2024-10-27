@@ -81,7 +81,7 @@
 ###
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2023/01/17/08/00/08-00-58-425_512.gif" height="400" alt="Imagem">
+  <img src="https://cdn.pixabay.com/animation/2023/01/17/08/00/08-00-58-425_512.gif" height="500" alt="Imagem">
 </p>
 
 ###
